@@ -1,2 +1,2 @@
-# simple-titles
-simple titles for jetbrains products
+# just-project-in-title
+Just Project in Title for jetbrains products
