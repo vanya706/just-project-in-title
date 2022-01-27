@@ -1,4 +1,4 @@
-package com.roomj.simpletitles;
+package com.roomj.justprojectintitle;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VirtualFile;
@@ -9,6 +9,6 @@ public class SimpleFrameTitleBuilder extends PlatformFrameTitleBuilder {
 
   @Override
   public String getFileTitle(@NotNull Project project, @NotNull VirtualFile virtualFile) {
-    return virtualFile.getName();
+    return "";
   }
 }
